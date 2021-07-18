@@ -1,0 +1,7 @@
+.weatherContainer{
+    background-color: rgb(255, 255, 255);
+    width: 250pt;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: lightgray 2px 2px;
+}
